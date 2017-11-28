@@ -1,0 +1,17 @@
+{
+  "license": "MIT",
+  "main": "InstantMessage.js",
+  "maintainers": [
+    {
+      "name": "cwilson",
+      "email": "corey@eastcodes.com"
+    }
+  ],
+  "name": "react-native-instant-message",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.47"
+  },
+  "readme": "ERROR: No README data found!",
+  "version": "1.0.0"
+}
