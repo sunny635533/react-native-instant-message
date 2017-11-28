@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/user/Documents/sourceTree/RN-BBC/src/app-js/node_modules/react-native-network-info/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/user/.android/build-cache/bbb45b978d9c96dfa4dd51f8b5b93c3a08673dd7/output/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 76,
+                        "endOffset": 354
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/user/Documents/sourceTree/RN-BBC/src/react-native-instant-message/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/user/.android/build-cache/bbb45b978d9c96dfa4dd51f8b5b93c3a08673dd7/output/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 76,
+                        "endOffset": 354
+                    }
+                }
+            }
+        ]
+    }
+]
